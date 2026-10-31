@@ -1,1 +1,1 @@
-motyw = ciemny
+motyw = testowy
