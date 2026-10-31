@@ -1,1 +1,1 @@
-motyw = jasny 
+motyw = ciemny
